@@ -19,6 +19,10 @@
   <code><img alt="My e-mail" width="32" src="https://www.hyperborea.dev/icons/email.svg" /></code>
 </a>
 
+<a href="https://www.linkedin.com/in/rdleao/">
+  <code><img alt="My LinkedIn" width="32" src="https://www.hyperborea.dev/icons/linkedin.svg" /></code>
+</a>
+
 <a href="https://twitter.com/rodolfleaodev">
   <code><img alt="My Twitter" width="32" src="https://www.hyperborea.dev/icons/twitter.svg" /></code>
 </a>
