@@ -19,6 +19,10 @@
   <code><img alt="My e-mail" width="32" src="https://www.hyperborea.dev/icons/email.svg" /></code>
 </a>
 
+<a href="https://discord.com">
+  <code><img alt="My Discord: Rodolfo Leão#0535" width="32" src="https://www.hyperborea.dev/icons/discord.svg" /></code>
+</a>
+
 <a href="https://www.hyperborea.dev">
   <code><img alt="My Webpage" width="32" src="https://www.hyperborea.dev/icons/hyperborea.svg" /></code>
 </a>
