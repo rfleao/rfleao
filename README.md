@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/rodolfo_leao">
-  <code><img alt="My HackerRank" width="40" src="https://www.hyperborea.dev/icons/hackerrank.svg" /></code>
+  <code><img alt="My HackerRank" width="40" src="https://www.hyperborea.dev/icons/hackerrank1.svg" /></code>
 </a>
 
 <a href="https://steamcommunity.com/id/rodolfoleao/">
