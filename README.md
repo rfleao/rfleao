@@ -62,10 +62,15 @@
 ### Languages
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/html5.svg" alt="HTML5"/></code>
-
 <code><img height="32" src="https://www.hyperborea.dev/icons/css3.svg" alt="CSS3"/></code>
-
 <code><img height="32" src="https://www.hyperborea.dev/icons/javascript.svg" alt="JavaScript"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/c.svg" alt="C"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/java.svg" alt="Java"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/python.svg" alt="Pyhon"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/ruby.svg" alt="Ruby"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/php.svg" alt="PHP"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/r.svg" alt="R"/></code>
+
 
 
 
