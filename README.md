@@ -59,8 +59,6 @@
   <code><img alt="My Steam" width="32" src="https://www.hyperborea.dev/icons/steam.svg" /></code>
 </a>
 
-<br/><br/>
-
 ### Languages
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/html5.svg" alt="HTML5"/></code>
