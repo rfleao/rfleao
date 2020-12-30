@@ -6,12 +6,12 @@
   I'm Rodolfo, Fullstack Developer.
 </p>
 
-<br/>
+<b/>
 
 ### Personal Info:
 - I'm freelancer developer;
 
-- I’m currently learning Algorithm in C and R Languages;
+- I’m currently learning Algorithm in C and R Languages.
 
 ### Contact and Social Info:
 
@@ -20,31 +20,31 @@
 </a>
 
 <a href="https://twitter.com/rodolfleaodev">
-  <code><img alt="My Twitter" width="32" src="="https://www.hyperborea.dev/icons/twitter.svg" /></code>
+  <code><img alt="My Twitter" width="32" src="https://www.hyperborea.dev/icons/twitter.svg" /></code>
 </a>
 
 <a href="https://www.instagram.com/rodolfoleaodev/">
-  <code><img alt="My Instagram" width="32" src="="https://www.hyperborea.dev/icons/instagram.svg" /></code>
+  <code><img alt="My Instagram" width="32" src="https://www.hyperborea.dev/icons/instagram.svg" /></code>
 </a>
 
 <a href="https://medium.com/@rdleaodev">
-  <code><img alt="My Medium" width="32" src="="https://www.hyperborea.dev/icons/medium.svg" /></code>
+  <code><img alt="My Medium" width="32" src="https://www.hyperborea.dev/icons/medium.svg" /></code>
 </a>
 
 <a href="https://stackoverflow.com/users/13063979/rodolfoleao?tab=profile">
-  <code><img alt="My Stack Overflow" width="32" src="="https://www.hyperborea.dev/icons/stackoverflow.svg" /></code>
+  <code><img alt="My Stack Overflow" width="32" src="https://www.hyperborea.dev/icons/stackoverflow.svg" /></code>
 </a>
 
 <a href="https://www.codewars.com/users/rodolfoleaodev">
-  <code><img alt="My CodeWars" width="32" src="="https://www.hyperborea.dev/icons/codewars.svg" /></code>
+  <code><img alt="My CodeWars" width="32" src="https://www.hyperborea.dev/icons/codewars.svg" /></code>
 </a>
 
 <a href="https://www.hackerrank.com/rodolfo_leao">
-  <code><img alt="My HackerRank" width="32" src="="https://www.hyperborea.dev/icons/hackerrank.svg" /></code>
+  <code><img alt="My HackerRank" width="40" src="https://www.hyperborea.dev/icons/hackerrank.svg" /></code>
 </a>
 
 <a href="https://steamcommunity.com/id/rodolfoleao/">
-  <code><img alt="My Steam" width="32" src="="https://www.hyperborea.dev/icons/steam.svg" /></code>
+  <code><img alt="My Steam" width="32" src="https://www.hyperborea.dev/icons/steam.svg" /></code>
 </a>
 
 <br/><br/>
