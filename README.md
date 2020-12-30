@@ -83,6 +83,12 @@
 <code><img height="32" src="https://www.hyperborea.dev/icons/django.svg" alt="Django"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/rubyonrails.svg" alt="Ruby On Rails"/></code>
 
+### Stats
+
+<p align=left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodolfoleaodev&show_icons=true&theme=react" alt="rodolfoleaodev's github stats" />
+</p>
+
 
 
 
