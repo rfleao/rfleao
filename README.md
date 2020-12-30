@@ -63,6 +63,12 @@
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/html5.svg" alt="HTML5"/></code>
 
+<code><img height="32" src="https://www.hyperborea.dev/icons/css3.svg" alt="CSS3"/></code>
+
+<code><img height="32" src="https://www.hyperborea.dev/icons/javascript.svg" alt="JavaScript"/></code>
+
+
+
 <!--
 **rodolfoleaodev/rodolfoleaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
