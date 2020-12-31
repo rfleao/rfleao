@@ -87,7 +87,7 @@
 
 ### Databases:
 
-<code><img height="32" src="https://www.hyperborea.dev/icons/mysql.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/mysql1.svg" alt="MySQL"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/mongodb.svg" alt="MongoDB"/></code>
 
 ### Office:
