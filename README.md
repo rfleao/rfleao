@@ -83,7 +83,7 @@
 <code><img height="32" src="https://www.hyperborea.dev/icons/django.svg" alt="Django"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/rubyonrails.svg" alt="Ruby On Rails"/></code>
 
-###Office
+### Office
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/project.svg" alt="Project"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/visio.svg" alt="Visio"/></code>
