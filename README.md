@@ -59,7 +59,7 @@
   <code><img alt="My Steam" width="32" src="https://www.hyperborea.dev/icons/steam.svg" /></code>
 </a>
 
-### Languages
+### Languages:
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/html5.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/css3.svg" alt="CSS3"/></code>
@@ -71,7 +71,7 @@
 <code><img height="32" src="https://www.hyperborea.dev/icons/php.svg" alt="PHP"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/r.svg" alt="R"/></code>
 
-### Frameworks
+### Frameworks:
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/react.svg" alt="React"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/node.svg" alt="Node"/></code>
@@ -83,13 +83,13 @@
 <code><img height="32" src="https://www.hyperborea.dev/icons/django.svg" alt="Django"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/rubyonrails.svg" alt="Ruby On Rails"/></code>
 
-### Office
+### Office:
 
-<code><img height="32" src="https://www.hyperborea.dev/icons/project.svg" alt="Project"/></code>
-<code><img height="32" src="https://www.hyperborea.dev/icons/visio.svg" alt="Visio"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/project.png" alt="Project"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/visio.png" alt="Visio"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/excel.svg" alt="Excel"/></code>
 
-### Stats
+### Stats:
 
 <p align=left">
   <img src="https://github-readme-stats.vercel.app/api?username=rodolfoleaodev&show_icons=true&theme=react" alt="rodolfoleaodev's github stats" />
