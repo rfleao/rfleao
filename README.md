@@ -11,6 +11,8 @@
 ### Personal Info:
 - I'm freelancer developer;
 
+- I'm Brazilian, native Portuguese speaker and fluent in English;
+
 - I’m currently learning C and R Languages.
 
 ### Contact and Social Info:
