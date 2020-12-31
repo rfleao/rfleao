@@ -89,6 +89,12 @@
 <code><img height="32" src="https://www.hyperborea.dev/icons/visio.png" alt="Visio"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/excel.svg" alt="Excel"/></code>
 
+### Certificates:
+
+<code><img height="96" src="https://www.hyperborea.dev/icons/certificate_html_sololearn.png" alt="Certificate HTML SoloLearn"/></code>
+<code><img height="96" src="https://www.hyperborea.dev/icons/certificate_html_programminghub.png" alt="Certificate HTML ProgrammingHub"/></code>
+<code><img height="96" src="https://www.hyperborea.dev/icons/certificate_c_programminghub.png" alt="Certificate C ProgrammingHub"/></code>
+
 ### Stats:
 
 <p align=left">
