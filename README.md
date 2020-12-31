@@ -2,9 +2,9 @@
 
 ### Welcome to my profile page!
 
-<p>
-  I'm Rodolfo, Fullstack Developer.
-</p>
+- I'm Rodolfo Leão;
+
+- I'm Fullstack Developer.
 
 ### Personal Info:
 
