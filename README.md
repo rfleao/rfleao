@@ -6,9 +6,8 @@
   I'm Rodolfo, Fullstack Developer.
 </p>
 
-<b/>
-
 ### Personal Info:
+
 - I'm freelancer developer;
 
 - I'm Brazilian, native Portuguese speaker and fluent in English;
@@ -108,20 +107,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rodolfoleaodev&show_icons=true&theme=react" alt="rodolfoleaodev's github stats" />
 </p>
 
-
-
-
-<!--
-**rodolfoleaodev/rodolfoleaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
