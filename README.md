@@ -85,6 +85,11 @@
 <code><img height="32" src="https://www.hyperborea.dev/icons/django.svg" alt="Django"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/rubyonrails.svg" alt="Ruby On Rails"/></code>
 
+### Databases:
+
+<code><img height="32" src="https://www.hyperborea.dev/icons/mysql.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://www.hyperborea.dev/icons/mongodb.svg" alt="MongoDB"/></code>
+
 ### Office:
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/project.png" alt="Project"/></code>
