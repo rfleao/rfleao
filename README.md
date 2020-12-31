@@ -11,7 +11,7 @@
 ### Personal Info:
 - I'm freelancer developer;
 
-- I’m currently learning Algorithm in C and R Languages.
+- I’m currently learning C and R Languages.
 
 ### Contact and Social Info:
 
