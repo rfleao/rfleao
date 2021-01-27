@@ -2,19 +2,13 @@
 
 ### Welcome to my profile page!
 
-- I'm a Brazilian Fullstack Developer. I'm a Portuguese native speaker, and fluent in English. I also speak elementary French and German, in addition to currently learning Japanese and Chinese.
+- I'm a Brazilian Freelancer Fullstack Developer. I'm a Portuguese native speaker, and fluent in English. I also speak elementary French and German, in addition to currently learning Japanese and Chinese.
 
 - I worked for 10 years in public administration in the area of information technology, more precisely as a project manager. I was also able to obtain knowledge in programming in Java, PHP, and Python languages, in addition to databases such as MySQL.
 
 - Currently, I develop projects as a Freelancer. I'm methodical, agile, and perfectionist, besides being curious, always keeping myself updated.
 
 - I have a solid background in mathematics, logic, and algorithms.
-
-### Personal Info:
-
-- I'm freelancer developer;
-
-- I'm Brazilian, native Portuguese speaker and fluent in English;
 
 - I’m currently learning C and R Languages.
 
@@ -104,6 +98,8 @@
 <code><img height="96" src="https://www.hyperborea.dev/icons/certificate_html_sololearn.png" alt="Certificate HTML SoloLearn"/></code>
 <code><img height="96" src="https://www.hyperborea.dev/icons/certificate_html_programminghub.png" alt="Certificate HTML ProgrammingHub"/></code>
 <code><img height="96" src="https://www.hyperborea.dev/icons/certificate_c_programminghub.png" alt="Certificate C ProgrammingHub"/></code>
+
+### Bibliography:
 
 ### Stats:
 
