@@ -30,18 +30,6 @@
   <code><img alt="My LinkedIn" width="32" src="https://www.hyperborea.dev/icons/linkedin.svg" /></code>
 </a>
 
-<a href="https://twitter.com/rodolfleaodev">
-  <code><img alt="My Twitter" width="32" src="https://www.hyperborea.dev/icons/twitter.svg" /></code>
-</a>
-
-<a href="https://www.instagram.com/rodolfoleaodev/">
-  <code><img alt="My Instagram" width="32" src="https://www.hyperborea.dev/icons/instagram.svg" /></code>
-</a>
-
-<a href="https://medium.com/@rdleaodev">
-  <code><img alt="My Medium" width="32" src="https://www.hyperborea.dev/icons/medium.svg" /></code>
-</a>
-
 <a href="https://stackoverflow.com/users/13063979/rodolfoleao?tab=profile">
   <code><img alt="My Stack Overflow" width="32" src="https://www.hyperborea.dev/icons/stackoverflow.svg" /></code>
 </a>
