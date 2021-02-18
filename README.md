@@ -2,15 +2,17 @@
 
 ### Welcome to my profile page!
 
-- I'm a Brazilian Freelancer Fullstack Developer. I'm a Portuguese native speaker, and fluent in English. I also speak elementary French and German, in addition to currently learning Japanese and Chinese.
+- I'm Freelancer Fullstack Developer. 
 
-- I worked for 10 years in public administration in the area of information technology, more precisely as a project manager. I was also able to obtain knowledge in programming in Java, PHP, and Python languages, in addition to databases such as MySQL.
+- I'm a Portuguese native speaker, and fluent in English.
 
-- Currently, I develop projects as a Freelancer. I'm methodical, agile, and perfectionist, besides being curious, always keeping myself updated.
+- I worked for 10 years in public service in the area of information technology, more precisely in project management. I was also able to obtain knowledge in programming in Java, PHP, and Python languages, in addition to databases such as MySQL.
+
+- Currently, I develop projects as a Freelancer. 
+
+- I'm methodical, agile, and perfectionist, besides being curious, always keeping myself updated.
 
 - I have a solid background in mathematics, logic, and algorithms.
-
-- I’m currently learning C and R Languages.
 
 ### Contact and Social Info:
 
