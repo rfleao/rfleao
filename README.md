@@ -84,6 +84,7 @@
 <code><img height="96" src="https://www.hyperborea.dev/icons/certificate_html_sololearn.png" alt="Certificate HTML SoloLearn"/></code>
 <code><img height="96" src="https://www.hyperborea.dev/icons/certificate_html_programminghub.png" alt="Certificate HTML ProgrammingHub"/></code>
 <code><img height="96" src="https://www.hyperborea.dev/icons/certificate_c_programminghub.png" alt="Certificate C ProgrammingHub"/></code>
+<code><img height="96" src="https://www.hyperborea.dev/icons/certificate_css_programminghub.png" alt="Certificate CSS ProgrammingHub"/></code>
 
 ### Stats:
 
