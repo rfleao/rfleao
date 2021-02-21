@@ -1,4 +1,4 @@
-### Welcome to my profile page!
+### Welcome to my profile page:
 
 - Fullstack Developer and Portuguese native speaker, fluent in English, French, and German.
 - Worked for 10 years in public service in project management for the areas of public health and social service. 
