@@ -1,18 +1,11 @@
-# Hello Everyone!
-
 ### Welcome to my profile page!
 
-- I'm Freelancer Fullstack Developer. 
-
-- I'm a Portuguese native speaker, and fluent in English.
-
-- I worked for 10 years in public service in the area of information technology, more precisely in project management. I was also able to obtain knowledge in programming in Java, PHP, and Python languages, in addition to databases such as MySQL.
-
-- Currently, I develop projects as a Freelancer. 
-
-- I'm methodical, agile, and perfectionist, besides being curious, always keeping myself updated.
-
-- I have a solid background in mathematics, logic, and algorithms.
+- Fullstack Developer and Portuguese native speaker, fluent in English, French, and German.
+- Worked for 10 years in public service in project management for the areas of public health and social service. 
+- Currently developing social projects.
+- Solid background in mathematics, logic, and algorithms.
+- Interested in climate change, environment, sustainability, mental health, human rights, public policies, child protection, poverty reduction, firearms control and reduction, food safety, animal protection, vegan food, and volunteer work.
+- Chess Player.
 
 ### Contact and Social Info:
 
