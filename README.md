@@ -53,7 +53,7 @@
 
 <code><img height="32" src="https://www.hyperborea.dev/icons/react.svg" alt="React"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/node.svg" alt="Node"/></code>
-<code><img height="32" src="https://www.hyperborea.dev/icons/angular.svg" alt="Angular"/></code>
+<code><img height="32" src="https://hyperboreadev-my.sharepoint.com/:u:/g/personal/rodolfoleao_hyperboreo_com/ERL4KdCULEZDuqEfWKgj6HwB-d6YjCFyn7a0gx-uIIVQlg?e=uE1T6Y" alt="Angular"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/express1.svg" alt="Express"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/bootstrap.svg" alt="Bootstrap"/></code>
 <code><img height="32" src="https://www.hyperborea.dev/icons/laravel.svg" alt="Laravel"/></code>
