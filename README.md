@@ -17,7 +17,7 @@
   <code><img alt="My Discord: Rodolfo Leão#0535" width="32" src="http://hyperboreo.infinityfreeapp.com/pictures/icons/email.svg/discord.svg" /></code>
 </a>
 
-<a href="https://www.hyperborea.dev">
+<a href="https://www.hyperboreo.com">
   <code><img alt="My Webpage" width="32" src="http://hyperboreo.infinityfreeapp.com/pictures/users/hyperborea.svg" /></code>
 </a>
 
