@@ -10,31 +10,31 @@
 ### Contact and Social Info:
 
 <a href="mailto:rodolfoleao@hyperboreo.com">
-  <code><img alt="My e-mail" width="32" src="http://www.hyperboreo.com/pictures/icons/email.svg" /></code>
+  <code><img alt="E-mail" width="32" src="http://www.hyperboreo.com/pictures/icons/email.svg" /></code>
 </a>
 
 <a href="https://discord.com">
-  <code><img alt="My Discord: Rodolfo Leão#0535" width="32" src="http://www.hyperboreo.com/pictures/icons/discord.svg" /></code>
+  <code><img alt="Discord: Rodolfo Leão#0535" width="32" src="http://www.hyperboreo.com/pictures/icons/discord.svg" /></code>
 </a>
 
 <a href="https://www.hyperboreo.com">
-  <code><img alt="My Webpage" width="32" src="http://www.hyperboreo.com/pictures/users/hyperborea.svg" /></code>
+  <code><img alt="Homepage" width="32" src="http://www.hyperboreo.com/pictures/users/hyperboreo.svg" /></code>
 </a>
 
 <a href="https://www.linkedin.com/in/rdleao/">
-  <code><img alt="My LinkedIn" width="32" src="http://www.hyperboreo.com/pictures/icons/linkedin.svg" /></code>
+  <code><img alt="LinkedIn" width="32" src="http://www.hyperboreo.com/pictures/icons/linkedin.svg" /></code>
 </a>
 
-<a href="https://stackoverflow.com/users/13063979/rodolfoleao?tab=profile">
-  <code><img alt="My Stack Overflow" width="32" src="http://www.hyperboreo.com/pictures/icons/stackoverflow.svg" /></code>
+<a href="https://stackoverflow.com/users/13063979/rleao?tab=profile">
+  <code><img alt="Stack Overflow" width="32" src="http://www.hyperboreo.com/pictures/icons/stackoverflow.svg" /></code>
 </a>
 
-<a href="https://www.codewars.com/users/rodolfoleaodev">
-  <code><img alt="My CodeWars" width="32" src="http://www.hyperboreo.com/pictures/icons/codewars.svg" /></code>
+<a href="https://www.codewars.com/users/rleao">
+  <code><img alt="CodeWars" width="32" src="http://www.hyperboreo.com/pictures/icons/codewars.svg" /></code>
 </a>
 
-<a href="https://www.hackerrank.com/rodolfo_leao">
-  <code><img alt="My HackerRank" width="32" src="http://www.hyperboreo.com/pictures/icons/hackerrank.svg" /></code>
+<a href="https://www.hackerrank.com/rleao">
+  <code><img alt="HackerRank" width="32" src="http://www.hyperboreo.com/pictures/icons/hackerrank.svg" /></code>
 </a>
 
 ### Languages:
@@ -83,6 +83,6 @@
 ### Stats:
 
 <p align=left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolfoleaodev&show_icons=true&theme=react" alt="rodolfoleaodev's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rfleao&show_icons=true&theme=react" alt="rfleao's github stats" />
 </p>
 
