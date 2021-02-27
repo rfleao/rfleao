@@ -79,6 +79,7 @@
 <code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_c_programminghub.png" alt="Certificate C ProgrammingHub"/></code>
 <code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_css_programminghub.png" alt="Certificate CSS ProgrammingHub"/></code>
 <code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_javascript_programminghub.png" alt="Certificate JavaScript ProgrammingHub"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_python_programminghub.png" alt="Certificate Python ProgrammingHub"/></code>
 
 ### Stats:
 
