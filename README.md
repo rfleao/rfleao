@@ -48,7 +48,7 @@
 <code><img height="32" src="http://www.hyperboreo.com/c.svg" alt="C"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/java.svg" alt="Java"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/python.svg" alt="Pyhon"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/ruby.svg" alt="Ruby"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/ruby.png" alt="Ruby"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/php.svg" alt="PHP"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/r.svg" alt="R"/></code>
 
