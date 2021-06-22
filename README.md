@@ -40,17 +40,17 @@
   <code><img alt="HackerRank" width="32" src="http://www.hyperboreo.com/hackerrank.svg" /></code>
 </a>
 
-### Languages:
+### Linguagens:
 
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/html5.svg" alt="HTML5"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/css3.svg" alt="CSS3"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/javascript.svg" alt="JavaScript"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/c.svg" alt="C"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/java.svg" alt="Java"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/python.svg" alt="Pyhon"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/ruby.svg" alt="Ruby"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/php.svg" alt="PHP"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/r.svg" alt="R"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/html5.svg" alt="HTML5"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/css3.svg" alt="CSS3"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/javascript.svg" alt="JavaScript"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/c.svg" alt="C"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/java.svg" alt="Java"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/python.svg" alt="Pyhon"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/ruby.svg" alt="Ruby"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/php.svg" alt="PHP"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/r.svg" alt="R"/></code>
 
 ### Frameworks:
 
