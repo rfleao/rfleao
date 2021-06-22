@@ -1,14 +1,14 @@
 ### Bem-vindo ao meu perfil:
 
-• Desenvolvedor Fullstack;
-• Falante nativo de Português, fluente em Inglês, Francês e Alemão;
-• Experiência de 10 anos no serviço público na gestão de projetos para as áreas de Saúde Pública e Serviço Social;
-• Especialista em Processos Legislativos;
-• Membro do Partido dos Trabalhadores;
-• Desenvolvimento e suporte de projetos sociais;
-• Sólida formação em matemática, lógica e algoritmos;
-• Interessado em mudanças climáticas, meio ambiente, sustentabilidade, saúde mental, direitos humanos, políticas públicas, proteção infantil, redução da pobreza, controle e redução de armas de fogo, segurança alimentar, proteção animal, alimentação vegana, trabalho voluntário, combate ao racismo, apoio ao feminismo, comunidade LGBTQIA+ e populações indígenas;
-• Jogador de xadrez.
+- Desenvolvedor Fullstack;
+- Falante nativo de Português, fluente em Inglês, Francês e Alemão;
+- Experiência de 10 anos no serviço público na gestão de projetos para as áreas de Saúde Pública e Serviço Social;
+- Especialista em Processos Legislativos;
+- Membro do Partido dos Trabalhadores;
+- Desenvolvimento e suporte de projetos sociais;
+- Sólida formação em matemática, lógica e algoritmos;
+- Interessado em mudanças climáticas, meio ambiente, sustentabilidade, saúde mental, direitos humanos, políticas públicas, proteção infantil, redução da pobreza, controle e redução de armas de fogo, segurança alimentar, proteção animal, alimentação vegana, trabalho voluntário, combate ao racismo, apoio ao feminismo, comunidade LGBTQIA+ e populações indígenas;
+- Jogador de xadrez.
 
 ### Contact and Social Info:
 
