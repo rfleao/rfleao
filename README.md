@@ -10,10 +10,10 @@
 - Interessado em mudanças climáticas, meio ambiente, sustentabilidade, saúde mental, direitos humanos, políticas públicas, proteção infantil, redução da pobreza, controle e redução de armas de fogo, segurança alimentar, proteção animal, alimentação vegana, trabalho voluntário, combate ao racismo, apoio ao feminismo, comunidade LGBTQIA+ e populações indígenas;
 - Jogador de xadrez.
 
-### Contact and Social Info:
+### Informações Sociais e de Contato:
 
 <a href="mailto:rodolfoleao@hyperboreo.com">
-  <code><img alt="E-mail" width="32" src="http://www.hyperboreo.com/pictures/icons/email.svg" /></code>
+  <code><img alt="E-mail" width="32" src="http://www.hyperboreo.com/email.svg" /></code>
 </a>
 
 <a href="https://discord.com">
