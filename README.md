@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil:
+### Bem-vindo ao meu Perfil:
 
 - Desenvolvedor Fullstack;
 - Falante nativo de Português, fluente em Inglês, Francês e Alemão;
@@ -17,27 +17,27 @@
 </a>
 
 <a href="https://discord.com">
-  <code><img alt="Discord: Rodolfo Leão#0535" width="32" src="http://www.hyperboreo.com/pictures/icons/discord.svg" /></code>
+  <code><img alt="Discord: Rodolfo Leão#0535" width="32" src="http://www.hyperboreo.com/discord.svg" /></code>
 </a>
 
 <a href="https://www.hyperboreo.com">
-  <code><img alt="Homepage" width="32" src="http://www.hyperboreo.com/pictures/users/hyperboreo.svg" /></code>
+  <code><img alt="Homepage" width="32" src="http://www.hyperboreo.com/hyperboreo.svg" /></code>
 </a>
 
 <a href="https://www.linkedin.com/in/rdleao/">
-  <code><img alt="LinkedIn" width="32" src="http://www.hyperboreo.com/pictures/icons/linkedin.svg" /></code>
+  <code><img alt="LinkedIn" width="32" src="http://www.hyperboreo.com/linkedin.svg" /></code>
 </a>
 
 <a href="https://stackoverflow.com/users/13063979/rleao?tab=profile">
-  <code><img alt="Stack Overflow" width="32" src="http://www.hyperboreo.com/pictures/icons/stackoverflow.svg" /></code>
+  <code><img alt="Stack Overflow" width="32" src="http://www.hyperboreo.com/stackoverflow.svg" /></code>
 </a>
 
 <a href="https://www.codewars.com/users/rleao">
-  <code><img alt="CodeWars" width="32" src="http://www.hyperboreo.com/pictures/icons/codewars.svg" /></code>
+  <code><img alt="CodeWars" width="32" src="http://www.hyperboreo.com/codewars.svg" /></code>
 </a>
 
 <a href="https://www.hackerrank.com/rleao">
-  <code><img alt="HackerRank" width="32" src="http://www.hyperboreo.com/pictures/icons/hackerrank.svg" /></code>
+  <code><img alt="HackerRank" width="32" src="http://www.hyperboreo.com/hackerrank.svg" /></code>
 </a>
 
 ### Languages:
