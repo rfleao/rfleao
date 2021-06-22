@@ -54,7 +54,7 @@
 
 ### Frameworks:
 
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/react.svg" alt="React"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/react.svg" alt="React"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/pictures/icons/node.svg" alt="Node"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/pictures/icons/angular.svg" alt="Angular"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/pictures/icons/express.svg" alt="Express"/></code>
