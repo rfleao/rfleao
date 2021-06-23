@@ -55,14 +55,14 @@
 ### Frameworks:
 
 <code><img height="32" src="http://www.hyperboreo.com/react.svg" alt="React"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/node.svg" alt="Node"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/angular.svg" alt="Angular"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/express.svg" alt="Express"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/bootstrap.svg" alt="Bootstrap"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/laravel.svg" alt="Laravel"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/spring.svg" alt="Spring"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/django.svg" alt="Django"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/rubyonrails.svg" alt="Ruby On Rails"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/node.svg" alt="Node"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/angular.svg" alt="Angular"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/express.svg" alt="Express"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/bootstrap.svg" alt="Bootstrap"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/laravel.svg" alt="Laravel"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/spring.svg" alt="Spring"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/django.svg" alt="Django"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/rubyonrails.svg" alt="Ruby On Rails"/></code>
 
 ### Databases:
 
