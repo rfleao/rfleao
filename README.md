@@ -66,14 +66,14 @@
 
 ### Databases:
 
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/mysql.svg" alt="MySQL"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/mongodb.svg" alt="MongoDB"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/mysql.svg" alt="MySQL"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/mongodb.svg" alt="MongoDB"/></code>
 
 ### Office:
 
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/project.svg" alt="Project"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/visio.svg" alt="Visio"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/pictures/icons/excel.svg" alt="Excel"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/project.png" alt="Project"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/visio.png" alt="Visio"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/excel.png" alt="Excel"/></code>
 
 ### Certificates:
 
