@@ -73,7 +73,7 @@
 
 <code><img height="32" src="http://www.hyperboreo.com/project.png" alt="Project"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/visio.png" alt="Visio"/></code>
-<code><img height="32" src="http://www.hyperboreo.com/excel.png" alt="Excel"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/excel.svg" alt="Excel"/></code>
 
 ### Certificates:
 
