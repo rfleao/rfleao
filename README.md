@@ -64,7 +64,7 @@
 <code><img height="32" src="http://www.hyperboreo.com/django.svg" alt="Django"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/rubyonrails.svg" alt="Ruby On Rails"/></code>
 
-### Databases:
+### Banco de Dados:
 
 <code><img height="32" src="http://www.hyperboreo.com/mysql.svg" alt="MySQL"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/mongodb.svg" alt="MongoDB"/></code>
@@ -75,16 +75,18 @@
 <code><img height="32" src="http://www.hyperboreo.com/visio.png" alt="Visio"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/excel.svg" alt="Excel"/></code>
 
-### Certificates:
+### Certificados:
 
-<code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_html_sololearn.png" alt="Certificate HTML SoloLearn"/></code>
-<code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_html_programminghub.png" alt="Certificate HTML ProgrammingHub"/></code>
-<code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_c_programminghub.png" alt="Certificate C ProgrammingHub"/></code>
-<code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_css_programminghub.png" alt="Certificate CSS ProgrammingHub"/></code>
-<code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_javascript_programminghub.png" alt="Certificate JavaScript ProgrammingHub"/></code>
-<code><img height="96" src="http://www.hyperboreo.com/pictures/certificates/certificate_python_programminghub.png" alt="Certificate Python ProgrammingHub"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/SoloLearn - HTML.png" alt="Certificado HTML SoloLearn"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/SoloLearn - Python for Beginners.png" alt="Certificado Python for Beginners SoloLearn"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - HTML.png" alt="Certificado HTML ProgrammingHub"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - C.png" alt="Certificado C ProgrammingHub"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - CSS.png" alt="Certificado CSS ProgrammingHub"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - HTML Advanced.png" alt="Certificado HTML Advanced ProgrammingHub"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - JavaScript.png" alt="Certificado JavaScript ProgrammingHub"/></code>
+<code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - Python.png" alt="Certificado Python ProgrammingHub"/></code>
 
-### Stats:
+### Estatísticas:
 
 <p align=left">
   <img src="https://github-readme-stats.vercel.app/api?username=rfleao&show_icons=true&theme=react" alt="rfleao's github stats" />
