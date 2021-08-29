@@ -1,7 +1,7 @@
 ### Perfil:
 
 - Desenvolvedor;
-- Falante nativo de Português, fluente em Inglês;
+- Falante nativo de Português, fluente em Inglês.
 
 ### Contato:
 
