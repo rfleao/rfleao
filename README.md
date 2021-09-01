@@ -3,6 +3,7 @@
 - Desenvolvedor;
 - Falante nativo de Português, fluente em Inglês.
 
+
 <a href="https://www.linkedin.com/in/rdleao/">
   <code><img alt="LinkedIn" width="32" src="http://www.hyperboreo.com/linkedin.svg" /></code>
 </a>
