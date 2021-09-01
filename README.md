@@ -1,7 +1,7 @@
-### Perfil:
+### Profile:
 
-- Desenvolvedor;
-- Falante nativo de Português, fluente em Inglês.
+- Developer;
+- Native speaker of Portuguese, fluent in English.
 
 
 <a href="https://www.linkedin.com/in/rdleao/">
@@ -16,7 +16,7 @@
   <code><img alt="CodeWars" width="32" src="http://www.hyperboreo.com/codewars.svg" /></code>
 </a>
 
-### Linguagens:
+### Languages:
 
 <code><img height="32" src="http://www.hyperboreo.com/html5.svg" alt="HTML5"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/css3.svg" alt="CSS3"/></code>
@@ -33,12 +33,12 @@
 <code><img height="32" src="http://www.hyperboreo.com/django.svg" alt="Django"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/rubyonrails.svg" alt="Ruby On Rails"/></code>
 
-### Banco de Dados:
+### Databases:
 
 <code><img height="32" src="http://www.hyperboreo.com/mysql.svg" alt="MySQL"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/mongodb.svg" alt="MongoDB"/></code>
 
-### Certificados:
+### Certificates:
 
 <code><img height="96" src="http://www.hyperboreo.com/SoloLearn - HTML.png" alt="Certificado HTML SoloLearn"/></code>
 <code><img height="96" src="http://www.hyperboreo.com/SoloLearn - Python for Beginners.png" alt="Certificado Python for Beginners SoloLearn"/></code>
@@ -49,7 +49,7 @@
 <code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - JavaScript.png" alt="Certificado JavaScript ProgrammingHub"/></code>
 <code><img height="96" src="http://www.hyperboreo.com/ProgrammingHub - Python.png" alt="Certificado Python ProgrammingHub"/></code>
 
-### Estatísticas:
+### Stats:
 
 <p align=left">
   <img src="https://github-readme-stats.vercel.app/api?username=rfleao&show_icons=true&theme=react" alt="rfleao's github stats" />
