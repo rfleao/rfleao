@@ -3,20 +3,6 @@
 - Desenvolvedor;
 - Falante nativo de Português, fluente em Inglês.
 
-### Contato:
-
-<a href="mailto:rodolfoleao@hyperboreo.com">
-  <code><img alt="E-mail" width="32" src="http://www.hyperboreo.com/email.svg" /></code>
-</a>
-
-<a href="https://discord.com">
-  <code><img alt="Discord: Rodolfo Leão#0535" width="32" src="http://www.hyperboreo.com/discord.svg" /></code>
-</a>
-
-<a href="https://www.hyperboreo.com">
-  <code><img alt="Homepage" width="32" src="http://www.hyperboreo.com/hyperboreo.svg" /></code>
-</a>
-
 <a href="https://www.linkedin.com/in/rdleao/">
   <code><img alt="LinkedIn" width="32" src="http://www.hyperboreo.com/linkedin.svg" /></code>
 </a>
@@ -66,4 +52,4 @@
 
 <p align=left">
   <img src="https://github-readme-stats.vercel.app/api?username=rfleao&show_icons=true&theme=react" alt="rfleao's github stats" />
-</p>                                                                                                                
+</p>
