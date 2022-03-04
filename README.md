@@ -3,6 +3,7 @@
 - Developer;
 - Native speaker of Portuguese, fluent in English
 
+### Social:
 
 <a href="https://www.linkedin.com/in/rdleao/">
   <code><img alt="LinkedIn" width="32" src="http://www.hyperboreo.com/linkedin.svg" /></code>
