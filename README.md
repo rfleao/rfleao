@@ -8,10 +8,6 @@
   <code><img alt="LinkedIn" width="32" src="http://www.hyperboreo.com/linkedin.svg" /></code>
 </a>
 
-<a href="https://stackoverflow.com/users/13063979/rleao?tab=profile">
-  <code><img alt="Stack Overflow" width="32" src="http://www.hyperboreo.com/stackoverflow.svg" /></code>
-</a>
-
 <a href="https://www.codewars.com/users/rleao">
   <code><img alt="CodeWars" width="32" src="http://www.hyperboreo.com/codewars.svg" /></code>
 </a>
