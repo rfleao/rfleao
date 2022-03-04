@@ -1,7 +1,7 @@
 ### Profile:
 
 - Developer;
-- Native speaker of Portuguese, fluent in English.
+- Native speaker of Portuguese, fluent in English
 
 
 <a href="https://www.linkedin.com/in/rdleao/">
