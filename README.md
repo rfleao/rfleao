@@ -37,7 +37,7 @@
 
 ### Aplicativos:
 
-<code><img height="32" src="http://www.hyperboreo.com/project.png" alt="Project"/></code>
+<code><img height="32" src="http://www.hyperboreo.com/project.svg" alt="Project"/></code>
 <code><img height="32" src="http://www.hyperboreo.com/visio.svg" alt="Visio"/></code>
 
 ### Estatísticas:
