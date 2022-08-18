@@ -1,7 +1,7 @@
 ### Perfil:
 
-- Desenvolvedor
-- Cursando Engenharia de Software
+- Fullstack Developer
+- Penetration Tester
 
 ### Social:
 
